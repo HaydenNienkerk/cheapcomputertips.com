@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cheap Gaming/Business Computer Tips</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <title>5 Simple Ways to get a Cheap Computer</title>
+
+  <style>
+    #container {
+      font-family: verdana, geneva, sans-serif;
+      font-size: 12px;
+      color: #0;
+      width: 1000px;
+      padding: 50px;
+	  margin: 350px;
+	  margin-top: 20px;
+	  align-content: center;
+    }
+    #content{
+      background-color: #FFF;
+      padding: 10px;
+      height: 380px;
+	  width: 750px;
+	  align-content: center;
+    }
+	
+	div.a {
+	  text-indent: 50px;
+	}
+
+    header{
+      background-color: #999;
+      height: 220px;
+      color: #FFF;
+    }
+
+    h1{
+      background-color: #999
+      height: 220px;
+      text-decoration: underline;
+      color: #600;
+	  font-size: 24px;
+	  text-align: center;
+    }
+	
+	h2{
+		color: #bf2222;
+		font-size: 20px;
+	}
+	
+	h4{
+		margin: -50px;
+		margin-bottom: 10px;
+	}
+	
+	h5{
+		margin: -50px;
+		color: #600;
+		font-size: 36px;
+	}
+
+    p{
+      text-align: left;
+	  font-size: 16px;
+	  color: #424242;
+    }
+	
+	p.a{
+		color: black;
+	}
+	
+	ul{
+		color:black;
+		font-size: 18px;
+		padding: 10px;
+		text-align: left;
+		margin: -10px;
+	}
+	
+	li{
+		padding: 15px;
+	}
+    
+  </style>
+  
+</head>
+
+<body>
+  <div id="container">
+
+  <div id="content">
+  
+	<h5><br>5 Simple Ways to get a Cheap Computer<br><br><br></h5>
+  
+	<h4><br>Written and Published by Hayden Nienkerk<br>
+	Published: 6/23/22<br></h4>
+  
+    <h1>Introduction</h1>
+	<div class="a">
+    <p>Whether it be for gaming, business, or even just for Facebook, computers are a necessity. However, these great machines come with a great price. With inflation in the economy
+	and shutdowns in China, it is vital to know these tips for finding cheaper computers:<br><br></p>
+    </div>
+	
+	<h2>1. Know What You Need<br><br></h2>
+	<div class="a">
+	<p>Yes, it sounds stupid, but far too many people purchase a very powerful and expensive computer to play games with low system requirements. Take the time to look up the
+	system requirements of the most demanding games you plan to play with this computer and purchase one that can play the games how you want. Almost every game includes its
+	minimum requirements and its recommended requirements. Generally, playing the game with the recommended requirements is the best balance between price and performance.</p>
+	</div>
+	
+	<div class="a">
+	<p>It is important to pay attention to the main purpose of the computer to save a lot of money. For example, if it is going to be used for only social media and writing,
+	purchase one with a decent processor and 8gb of RAM. Avoid buying a higher-end computer with a pricey graphics card in it because this graphics card is unnecessary for this
+	computer’s job.<br><br></p>
+	</div>
+	
+	<h2>2. Wait for Deals<br><br></h2>
+	<div class="a">
+	<p>If you are looking to get a brand new computer, watch for sales on manufacturers’ (Dell, HP, Asus, etc.) websites. These websites usually have weekly deals and weekend sales
+	where you could save up to 55% off computers. In addition, coupon codes are sometimes given out while purchasing, so take advantage of those.<br><br></p>
+	</div>
+	
+	<h2>3. Buy to Upgrade<br><br></h2>
+	<div class="a">
+	<p>You may have found a great computer online for a great price, but it lacks just a few minor specifications that you need. Good news; that is what will save you a lot of 
+	money. Buying a computer with everything you want in it may be easier as it requires less work, but it is also what drives the price of the machine up by $100 or more. By
+	upgrading your device on your own, you eliminate the cost of paying someone else labor. Additionally, you can buy the module on your own at a cheaper price. Personally, I buy
+	computers that have the graphics card and processor that I want and I go with the cheapest storage and memory. I do this because I know that I can upgrade the RAM and HDD/SSD,
+	to what I actually want, significantly cheaper than customizing the computer as I purchase it online.<br><br></p>
+	</div>
+
+	<h2>4. Use the Local IT Professional<br><br></h2>
+	<div class="a">
+	<p>For many people, upgrading a computer alone with little to no experience is too risky. If you don’t trust yourself with upgrading your pc yourself, try watching a few
+	videos on how to do it. If you still don’t trust yourself, get a hold of your local IT professional before purchasing the computer and get an estimate on how much the upgrade
+	will cost if they do it. Chances are, they can still upgrade your pc cheaper than ordering the computer with the upgrades already installed. Plus, this IT guy/girl can more
+	than likely help you get a computer for a good price. Just ask if they can help you, they are professionals in the field.<br><br></p>
+	</div>
+
+	<h2>5. Buy used Computers<br><br></h2>
+	<div class="a">
+	<p>Buying used computers is the cheapest route, but is also riskier than buying new. One risk is that the computer could have been taken care of poorly, which will shorten
+	the life of the device and possibly cause problems with performance. If buying online through eBay, Marketplace, or Craigslist, make sure to be safe by meeting in public areas
+	and have the seller send additional pictures of the computer to ensure that they actually have it. On the bright side, people who use these apps are typically trying to get rid
+	of their old computer because they have upgraded to a new one. With that said, they might be willing to go down in price just to get rid of the computer. Do your research on
+	the computers that are listed to know what you are getting into before contacting the seller.<br><br><br><br><br><br></p>
+	</div>
+	
+	<h1><br><br>Takeaways</h1>
+	<ul><br>
+		<li>Know what you need</li>
+		<li>Wait for deals</li>
+		<li>Buy to Upgrade</li>
+		<li>Use the IT professional</li>
+		<li>Buy Used Computers (Be Safe!!)</li>
+	</ul>
+
+	<h1><br><br>Conclusion</h1>
+	<div class="a">
+	<p>Thus, there are many ways to save big money on computers. It is important to know what you need before searching for these machines and to be patient when
+	waiting for deals. Use local professionals to help find the best price and try to perform an upgrade on your own. Try a used computer out when on a tight budget and be cautious
+	on the internet. I hope these tips were helpful and I wish you best of luck while searching!</p>
+	</div>
+
+	<p class="a"><br>- Hayden Nienkerk<br><br><br><br><br><br><br></p>
+	
+    <script src="script.js"></script>
+</body>
+  </div> <!-- End Content -->
+    
+</div> <!-- End Container -->
+</html>
